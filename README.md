@@ -60,6 +60,6 @@ The live tool is for **ethical security research purposes only**.
 
 **Mann Sapariya**  
 Security Researcher | Bug Bounty Hunter  
-[GitHub](https://github.com/yourusername) • [X/Twitter](https://twitter.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/mannsapariya) • [X/Twitter](https://x.com/maxx_191) • [LinkedIn](https://linkedin.com/in/mannsapariya)
 
 > 🛡️ Use responsibly. Learn deeply. Hack ethically.
