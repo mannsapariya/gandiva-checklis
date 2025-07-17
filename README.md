@@ -27,9 +27,8 @@ An AI-powered, web-based cybersecurity checklist tool for bug bounty hunters and
 ---
 
 ## 📸 Tool Preview
-
-> *(Want us to design a poster/screenshot? Let me know!)*  
-![Tool Preview](preview.png)
+ 
+![photo_2025-07-17_15-13-20](https://github.com/user-attachments/assets/a02463d0-8611-4f25-899d-d71afc6b73dd)
 
 ---
 
